@@ -4,4 +4,4 @@ This repo holds Python scripts aimed to help you with your ArcGIS processes usin
 
 The [Administration folder](https://github.com/JapaLenos/Python-API/tree/main/Portal_administration) contains scripts to automate and batch the administration processes of your ArcGIS Portal (ArcGIS Enterprise and ArcGIS Online)
 
-The Analysis folder (coming soon) contains scripts to automate and batch data analysis
+The [Analysis folder](https://github.com/JapaLenos/Python-API/tree/main/Analysis) contains scripts to automate and batch data analysis
