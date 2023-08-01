@@ -3,7 +3,7 @@ ArcGIS Python API & arcpy code --
 
 [EN]
 
-This repo holds Python scripts aimed to help you with your ArcGIS processes using the ArcGIS API for Python & ArcPy. 
+This repo holds **Python scripts** aimed to help you with your ArcGIS processes using the **ArcGIS API for Python & ArcPy**. 
 
 The [Administration folder](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/Portal_administration) contains scripts to automate and batch the administration processes of your ArcGIS Portal (ArcGIS Enterprise and ArcGIS Online) with the [ArcGIS API for Python](https://developers.arcgis.com/python/)
 
