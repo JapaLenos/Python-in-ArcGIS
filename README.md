@@ -1,4 +1,4 @@
-# ArcGIS API for Python & ArcPy
+# ArcGIS API for Python & ArcPy 🐍
 ArcGIS Python API & arcpy code --
 
 [EN]
@@ -11,7 +11,7 @@ The [Analysis folder](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/An
 
 [FR]
 
-Ce repo contient des scripts Python ayant pour but de vous aider avec vos workflows SIG en utilisant l'API Python d'ArcGIS et ArcPy.
+Ce repo contient des **scripts Python** ayant pour but de vous aider avec vos workflows SIG en utilisant l'**API Python d'ArcGIS et ArcPy**.
 
 Le [dossier Administration](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/Portal_administration) contient des scripts pour automatiser et traiter par lots les processus d'administration de votre portail ArcGIS (ArcGIS Enterprise et ArcGIS Online) avec l'[ArcGIS API for Python](https://developers.arcgis.com/python/)
 
