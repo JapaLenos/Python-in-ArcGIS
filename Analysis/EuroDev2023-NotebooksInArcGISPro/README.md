@@ -10,3 +10,6 @@ Salon Humboldt | Hilton Berlin
 **Topic:** Spatial Analysis and Data Science  
 **Esri Products:** ArcGIS Pro  
 **Keywords:** notebooks, data science, ArcGIS Pro, jupyter, python  
+
+**Download the notebook [here](https://github.com/JapaLenos/Python-in-ArcGIS/blob/main/Analysis/EuroDev2023-NotebooksInArcGISPro/Paris_traffic_Data_Preparation_and_Analysis.ipynb)**.
+ArcGIS Pro version used: **3.1.2**
