@@ -1,0 +1,7 @@
+Nom;Prenom;Email;Role;Type d'utilisateur
+Jean;Dupont;Jean.Dupont@domaine.ext;user;creator
+Anne;Fleury;Anne.Fleury@domaine.ext;user;creator
+Marie;Lambert;Marie.Lambert@domaine.ext;publisher;GISProfessionalAdv
+Camille;Martin;Camille.Martin@domaine.ext;user;creator
+Philippe;Petit;Philippe.Petit@domaine.ext;admin;creator
+Daniel;Schneider;Daniel.Schneider@domaine.ext;user;GISProfessionalAdv
