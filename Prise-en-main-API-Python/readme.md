@@ -4,7 +4,7 @@ Vous découvrirez ici une série de 9 tutoriels vous permettant de découvrir **
 + *Analyse spatiale et Data Science* : manipulation des données et data engineering, travail avec les données sous forme de pandas dataframes, analyse spatiale, cartographie et visualisation, Machine Learning et Deep Learning  
 
 Voici les différents épisodes que vous pourrez retrouver :  
-1 / Administrer des utilisateurs et des groupes : ajout, suppression, transfert de contenu   
+1 / [Administrer des utilisateurs et des groupes : ajout, suppression, transfert de contenu](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/Prise-en-main-API-Python/Tuto1-admin-utilisateurs-groupes)   
 2 / Gérer les crédits d'une organisation ArcGIS Online et envoyer des notifications d'alerte  
 3 / Créer un Dashboard de supervision du contenu votre organisation  
 4 / Créer une carte, y ajouter des couches, la publier et la partager  
