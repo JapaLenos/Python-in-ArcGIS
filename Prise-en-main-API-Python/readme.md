@@ -11,7 +11,7 @@ Voici les différents épisodes que vous pourrez retrouver :
 5 / Cloner, éditer et mettre à jour une couche  
 6/  Data Engineering et manipulation des Pandas DataFrame  (SeDF)  
 7 / Faire de l'analyse spatiale et utiliser le service de géocodage d'ArcGIS  
-8 / Introduction au Deep Learning  
-9 / Faire du pseudo temps réel  
+8 / Publier un Notebook sous forme d'outil Web pour ArcGIS  
+9 / Entraîner un modèle de Deep Learning pour extraire des entités depuis des données satellites  
 Pour rejoindre l'aventure, pas besoin d'être un expert en Python ! Des connaissances basiques devraient être suffisantes.  
 **Les différents scripts seront détaillés toutes les semaines dans des articles sur [CodeTheMap](https://codethemap.fr)**
