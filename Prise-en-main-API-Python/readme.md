@@ -9,7 +9,7 @@ Voici les différents épisodes que vous pourrez retrouver :
 3 / [Créer un Dashboard de supervision du contenu votre organisation](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/Prise-en-main-API-Python/Tuto3-admin-metriques-dashboard-supervision)  
 4 / [Créer une carte, y ajouter des couches, la publier et la partager](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/Prise-en-main-API-Python/Tuto4-contenu-creation-publication-carte)  
 5/  [Téléchargement et préparation de données, manipulation et publication des Spatially enabled Pandas DataFrames (SeDF)](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/Prise-en-main-API-Python/Tuto5-contenu-preparation-donnees-sedf)  
-6 / Cloner, éditer et mettre à jour des données et des cartes   
+6 / [Cloner, éditer et mettre à jour des données et des cartes](https://github.com/JapaLenos/Python-in-ArcGIS/tree/main/Prise-en-main-API-Python/Tuto6-contenu-clonage-miseajour-donnees)   
 7 / Faire de l'analyse spatiale et utiliser le service de géocodage d'ArcGIS  
 8 / Publier un Notebook sous forme d'outil Web pour ArcGIS  
 9 / Entraîner un modèle de Deep Learning pour extraire des entités depuis des données satellites  
